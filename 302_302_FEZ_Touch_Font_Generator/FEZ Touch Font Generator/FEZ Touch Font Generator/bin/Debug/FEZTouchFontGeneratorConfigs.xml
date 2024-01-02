@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOutputConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OutputConfiguration>
+    <rotation>RotateZero</rotation>
+    <flipHorizontal>false</flipHorizontal>
+    <flipVertical>false</flipVertical>
+    <paddingRemovalHorizontal>Tightest</paddingRemovalHorizontal>
+    <paddingRemovalVertical>Tightest</paddingRemovalVertical>
+    <minCharacterWidth>1</minCharacterWidth>
+    <minCharacterHeight>1</minCharacterHeight>
+    <spaceCharacterWidth>6</spaceCharacterWidth>
+    <interCharacterPixels>2</interCharacterPixels>
+    <displayName>Proportional Font</displayName>
+  </OutputConfiguration>
+  <OutputConfiguration>
+    <rotation>RotateZero</rotation>
+    <flipHorizontal>false</flipHorizontal>
+    <flipVertical>false</flipVertical>
+    <paddingRemovalHorizontal>Fixed</paddingRemovalHorizontal>
+    <paddingRemovalVertical>Tightest</paddingRemovalVertical>
+    <minCharacterWidth>0</minCharacterWidth>
+    <minCharacterHeight>0</minCharacterHeight>
+    <spaceCharacterWidth>6</spaceCharacterWidth>
+    <interCharacterPixels>2</interCharacterPixels>
+    <displayName>Fixed Font</displayName>
+  </OutputConfiguration>
+</ArrayOfOutputConfiguration>

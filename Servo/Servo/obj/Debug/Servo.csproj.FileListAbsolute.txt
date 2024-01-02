@@ -1,0 +1,35 @@
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\le\FEZ Panda II Application.exe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\be\FEZ Panda II Application.exe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\le\FEZ Panda II Application.pdb
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\be\FEZ Panda II Application.pdb
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\FEZ Panda II Application.exe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\FEZ Panda II Application.pdb
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\le\FEZ Panda II Application.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\le\FEZ Panda II Application.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\be\FEZ Panda II Application.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\be\FEZ Panda II Application.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\GHIElectronics.NETMF.System.dll
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\bin\Debug\GHIElectronics.NETMF.System.xml
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\Servo.Resources.resources
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\GenerateResource.read.1.tlog
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\GenerateResource.write.1.tlog
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\Servo.Resources.tinyresources
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\TinyResGen.cache
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\be\FEZ Panda II Application.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\be\FEZ Panda II Application.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\le\FEZ Panda II Application.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\le\FEZ Panda II Application.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\FEZ Panda II Application.exe
+c:\users\dmantle\documents\visual studio 2010\Projects\Servo\Servo\obj\Debug\FEZ Panda II Application.pdb

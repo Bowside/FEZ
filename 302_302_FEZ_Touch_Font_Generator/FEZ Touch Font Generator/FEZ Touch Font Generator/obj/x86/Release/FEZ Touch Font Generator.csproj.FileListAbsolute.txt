@@ -1,0 +1,12 @@
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\bin\Release\FEZTouchFontGenerator.exe.config
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\bin\Release\FEZTouchFontGenerator.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\bin\Release\FEZTouchFontGenerator.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZTouch.FontGenerator.AboutForm.resources
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZTouch.FontGenerator.InputBoxDialog.resources
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZTouch.FontGenerator.MainForm.resources
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZTouch.FontGenerator.OutputConfigurationForm.resources
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZTouch.FontGenerator.Properties.Resources.resources
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZTouchFontGenerator.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZTouchFontGenerator.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZ Touch Font Generator.csprojResolveAssemblyReference.cache
+C:\Users\Dillon\Google Drive\Development\FEZ\302_302_FEZ_Touch_Font_Generator\FEZ Touch Font Generator\FEZ Touch Font Generator\obj\x86\Release\FEZ Touch Font Generator.csproj.GenerateResource.Cache

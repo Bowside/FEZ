@@ -1,0 +1,47 @@
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\Simon_Says.Resources.resources
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\Simon_Says.Resources.tinyresources
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\TinyResGen.cache
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\le\Simon Says - Touch.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\be\Simon Says - Touch.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\le\Simon Says - Touch.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\be\Simon Says - Touch.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\Simon Says - Touch.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\Simon Says - Touch.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\Simon Says - Touch.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\Simon Says - Touch.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\le\Simon Says - Touch.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\le\Simon Says - Touch.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\be\Simon Says - Touch.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\be\Simon Says - Touch.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\LE\GHIElectronics.NETMF.USBClient.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\BE\GHIElectronics.NETMF.USBClient.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\LE\GHIElectronics.NETMF.USBClient.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\BE\GHIElectronics.NETMF.USBClient.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\GHIElectronics.NETMF.USBClient.dll
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\GHIElectronics.NETMF.USBClient.xml
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\be\Simon Says - Touch.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\be\Simon Says - Touch.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\le\Simon Says - Touch.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\Simon Says - Touch\Simon Says - Touch\obj\Debug\le\Simon Says - Touch.pdbx

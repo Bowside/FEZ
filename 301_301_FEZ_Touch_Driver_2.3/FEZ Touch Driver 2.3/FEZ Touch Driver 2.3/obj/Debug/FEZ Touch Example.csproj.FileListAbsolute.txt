@@ -1,0 +1,35 @@
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\FEZTouchDriver_Example.Resources.resources
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\FEZTouchDriver_Example.Resources.tinyresources
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\TinyResGen.cache
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\le\FEZ Touch Example.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\be\FEZ Touch Example.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\le\FEZ Touch Example.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\be\FEZ Touch Example.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\FEZ Touch Example.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\FEZ Touch Example.pdb
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\le\FEZ Touch Example.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\le\FEZ Touch Example.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\be\FEZ Touch Example.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\be\FEZ Touch Example.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\be\FEZ Touch Example.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\be\FEZ Touch Example.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\le\FEZ Touch Example.pe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\le\FEZ Touch Example.pdbx
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\FEZ Touch Example.exe
+C:\Users\Dillon\Google Drive\Development\FEZ\301_301_FEZ_Touch_Driver_2.3\FEZ Touch Driver 2.3\FEZ Touch Driver 2.3\obj\Debug\FEZ Touch Example.pdb

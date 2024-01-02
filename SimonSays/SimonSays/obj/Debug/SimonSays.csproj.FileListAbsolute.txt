@@ -1,0 +1,23 @@
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\le\FEZ Panda II Application.exe
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\be\FEZ Panda II Application.exe
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\le\FEZ Panda II Application.pdb
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\be\FEZ Panda II Application.pdb
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\SimonSays.Resources.resources
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\GenerateResource.read.1.tlog
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\GenerateResource.write.1.tlog
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\SimonSays.Resources.tinyresources
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\TinyResGen.cache
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\FEZ Panda II Application.exe
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\FEZ Panda II Application.pdb
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\FEZ Panda II Application.exe
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\FEZ Panda II Application.pdb
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\le\FEZ Panda II Application.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\le\FEZ Panda II Application.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\be\FEZ Panda II Application.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\bin\Debug\be\FEZ Panda II Application.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\be\FEZ Panda II Application.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\be\FEZ Panda II Application.pdbx
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\le\FEZ Panda II Application.pe
+c:\users\dmantle\documents\visual studio 2010\Projects\SimonSays\SimonSays\obj\Debug\le\FEZ Panda II Application.pdbx
